@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "newsportal1-3.onrender.com",
-    "localhost",
-    "127.0.0.1",
 ]
 
 
